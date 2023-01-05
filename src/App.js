@@ -13,15 +13,17 @@ function App() {
       <h1>articles</h1>
       <p></p>
 
+      <h1>onboarding</h1>
+      <p>where bitcoin talk should take place https://bitcointalk.org/</p>
+      <p>where bitcoin talk actually takes place https://twitter.com/</p>
+      <p>twitter</p>
+      
       <h1>guides</h1>
       <p>odells how to https://werunbtc.com/</p>
       
 
       <h1>developers</h1>
-      <p></p>
-
-      <h1>onboarding</h1>
-      <p></p>
+      <p>Blockchain metrics https://statoshi.info</p>
 
       <h1>ART</h1>
       <h1>cool stuff</h1>
@@ -36,6 +38,9 @@ function App() {
 
 
       <h1>SPANISH</h1>
+
+      <h2>twitter</h2>
+      <p>Adam Back https://twitter.com/adam3us</p>
 
     </div>
   );
